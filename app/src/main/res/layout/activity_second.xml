@@ -24,8 +24,8 @@
             <ImageView
                 android:id="@+id/descriptionImage"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                app:srcCompat="@android:drawable/ic_menu_report_image" />
+                android:layout_height="200dp"
+                android:src="@drawable/ic_banner_foreground" />
 
             <TextView
                 android:id="@+id/filmDescription"
@@ -34,8 +34,9 @@
                 android:gravity="center"
                 android:paddingTop="20dp"
                 android:paddingBottom="20dp"
+                android:textSize="24sp"
                 android:textColor="@color/black"
-                android:text="Placeholder" />
+                android:text="Placeholder for description" />
 
             <Button
                 android:id="@+id/shareButton"

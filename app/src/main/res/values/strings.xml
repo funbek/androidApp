@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">OtusApp</string>
+    <string name="app_name">Super application</string>
+    <string name="btn">Button for click</string>
+    <string name="filmName1">Super mega turbo film</string>
+    <string name="filmName2">Other super mega turbo film</string>
+    <string name="details">Details</string>
+    <string name="shareButton">Share on social</string>
 </resources>
